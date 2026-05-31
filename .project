@@ -20,5 +20,10 @@
 			<type>1</type>
 			<location>C:/Users/thiago/Pictures/foto9.png</location>
 		</link>
+		<link>
+			<name>src/rama.png</name>
+			<type>1</type>
+			<location>C:/Users/thiago/Downloads/rama.png</location>
+		</link>
 	</linkedResources>
 </projectDescription>
